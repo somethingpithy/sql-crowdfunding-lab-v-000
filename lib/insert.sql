@@ -6,7 +6,7 @@ INSERT INTO users (id, name, age) VALUES (5, 'Samwise Gamgee', 38);
 INSERT INTO users (id, name, age) VALUES (6, 'Professor Oak', 47);
 INSERT INTO users (id, name, age) VALUES (7, 'Master Chief', 41);
 INSERT INTO users (id, name, age) VALUES (8, 'Thor', 1000);
-INSERT INTO users (id, name, age) VALUES (9, '', );
+INSERT INTO users (id, name, age) VALUES (9, 'Obi-Wan', 35);
 INSERT INTO users (id, name, age) VALUES (10, '', );
 INSERT INTO users (id, name, age) VALUES (11, '', );
 INSERT INTO users (id, name, age) VALUES (12, '', );
