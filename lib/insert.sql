@@ -19,8 +19,8 @@ INSERT INTO users (id, name, age) VALUES (18, 'Rey', 19);
 INSERT INTO users (id, name, age) VALUES (19, 'Leia Organa', 65);
 INSERT INTO users (id, name, age) VALUES (20, 'Jon Snow', 17);
 
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (1, 'A Trip to Mordor','charity', 600.00, );
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (2, 'Help Fund the Resistance','charity', 1000.00, );
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (1, 'A Trip to Mordor','charity', 600.00, '2018-01-01', '2018-04-01');
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (2, 'Help Fund the Resistance','charity', 1000.00, '2018-');
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (3, 'I need a new hammer','charity', );
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (4, 'Invisible Jet needs a new engine','charity', 4000.00, );
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (5, 'Funds to update the library','books', 450.00, );
