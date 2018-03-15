@@ -26,7 +26,7 @@ INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) V
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (5, 'Funds to update the library','books', 450.00, '2018-02-01', '2018-04-23');
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (6, '221B Baker Street needs a new roof','charity', 2000.00, '2018-03-05', '2018-05-01');
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (7, 'Festival of Lights Fund','charity', 7000.00, '2017-12-01', '2018-03-28');
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (8, 'New Game: Choose Your Destiny','game', 1500.00, '2018-02-14', '2018-04-15');
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (8, 'New Game: Choose Your Destiny','game', 500.00, '2018-02-14', '2018-04-15');
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (9, 'Pokemon Research Project Fund','research', 8000.00, '2018-01-15', '2018-04-01');
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (10, 'Help me pay for dragon training','charity', 3500.00, '2017-12-23', '2018-04-12');
 
