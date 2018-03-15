@@ -20,15 +20,15 @@ INSERT INTO users (id, name, age) VALUES (19, 'Leia Organa', 65);
 INSERT INTO users (id, name, age) VALUES (20, 'Jon Snow', 17);
 
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (1, 'A Trip to Mordor','charity', 600.00, '2018-01-01', '2018-04-01');
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (2, 'Help Fund the Resistance','charity', 1000.00, '2018-');
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (3, 'I need a new hammer','charity', );
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (4, 'Invisible Jet needs a new engine','charity', 4000.00, );
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (5, 'Funds to update the library','books', 450.00, );
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (6, '221B Baker Street needs a new roof','charity', 2000.00,  );
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (7, 'Festival of Lights Fund','charity', 7000.00, );
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (8, 'New Game: Choose Your Destiny','game', 1500.00, );
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (9, 'Pokemon Research Project Fund','research', 8000.00, );
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (10, 'Help me pay for dragon training','charity', 3500.00, );
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (2, 'Help Fund the Resistance','charity', 1000.00, '2018-01-01', '2018-04-01');
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (3, 'I need a new hammer','charity', '2018-01-01', '2018-04-01');
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (4, 'Invisible Jet needs a new engine','charity', 4000.00, '2018-01-01', '2018-04-01');
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (5, 'Funds to update the library','books', 450.00, '2018-01-01', '2018-04-01');
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (6, '221B Baker Street needs a new roof','charity', 2000.00, '2018-01-01', '2018-04-01');
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (7, 'Festival of Lights Fund','charity', 7000.00, '2018-01-01', '2018-04-01');
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (8, 'New Game: Choose Your Destiny','game', 1500.00, '2018-01-01', '2018-04-01');
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (9, 'Pokemon Research Project Fund','research', 8000.00, '2018-01-01', '2018-04-01');
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (10, 'Help me pay for dragon training','charity', 3500.00, '2018-01-01', '2018-04-01');
 
 INSERT INTO pledges (id, amount, user_id, project_id) VALUES (1, );
 INSERT INTO pledges (id, amount, user_id, project_id) VALUES (2, );
