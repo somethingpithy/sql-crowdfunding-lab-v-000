@@ -21,12 +21,12 @@ INSERT INTO users (id, name, age) VALUES (20, 'Jon Snow', 17);
 
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (1, 'A Trip to Mordor','charity', 600.00, '2018-01-01', '2018-04-01');
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (2, 'Help Fund the Resistance','charity', 1000.00, '2017-12-15', '2018-03-27');
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (3, 'I need a new hammer','charity', '2018-01-01', '2018-04-27');
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (3, 'I need a new hammer','charity', 5000.00, '2018-03-01', '2018-04-27');
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (4, 'I need a new Hello Kitty backpack','charity', 100.00, '2018-03-15', '2018-05-18');
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (5, 'Funds to update the library','books', 450.00, '2018-01-01', '2018-04-01');
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (6, '221B Baker Street needs a new roof','charity', 2000.00, '2018-01-01', '2018-04-01');
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (7, 'Festival of Lights Fund','charity', 7000.00, '2018-01-01', '2018-04-01');
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (8, 'New Game: Choose Your Destiny','game', 1500.00, '2018-01-01', '2018-04-01');
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (5, 'Funds to update the library','books', 450.00, '2018-02-01', '2018-04-23');
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (6, '221B Baker Street needs a new roof','charity', 2000.00, '2018-03-05', '2018-05-01');
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (7, 'Festival of Lights Fund','charity', 7000.00, '2017-12-01', '2018-03-28');
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (8, 'New Game: Choose Your Destiny','game', 1500.00, '2018-02-14', '2018-04-15');
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (9, 'Pokemon Research Project Fund','research', 8000.00, '2018-01-01', '2018-04-01');
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (10, 'Help me pay for dragon training','charity', 3500.00, '2018-01-01', '2018-04-01');
 
