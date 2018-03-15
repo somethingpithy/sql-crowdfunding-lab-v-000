@@ -19,16 +19,16 @@ INSERT INTO users (id, name, age) VALUES (18, 'Rey', 19);
 INSERT INTO users (id, name, age) VALUES (19, 'Leia Organa', 65);
 INSERT INTO users (id, name, age) VALUES (20, 'Jon Snow', 17);
 
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (1, '','', );
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (2, '','', );
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (3, '','', );
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (4, '','', );
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (5, '','', );
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (6, '','', );
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (7, '','', );
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (8, '','', );
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (9, '','', );
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (10, '','', );
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (1, 'A Trip to Mordor','', );
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (2, 'Help Fund the Resistance','', );
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (3, 'I need a new hammer','', );
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (4, 'Invisible Jet needs a new engine','', );
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (5, 'Funds to update the library','', );
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (6, '221B Baker Street needs a new roof','', );
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (7, 'Festival of Lights Fund','', );
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (8, 'New Game: Choose Your Destiny','', );
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (9, 'Pokemon Research Project Fund','', );
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (10, 'Help me pay for dragon training','', );
 
 INSERT INTO pledges (id, amount, user_id, project_id) VALUES (1, );
 INSERT INTO pledges (id, amount, user_id, project_id) VALUES (2, );
