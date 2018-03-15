@@ -20,15 +20,15 @@ INSERT INTO users (id, name, age) VALUES (19, '', );
 INSERT INTO users (id, name, age) VALUES (20, '', );
 
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (1, '','', );
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (2, );
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (3, );
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (4, );
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (5, );
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (6, );
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (7, );
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (8, );
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (9, );
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (10, );
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (2, '','', );
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (3, '','', );
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (4, '','', );
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (5, '','', );
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (6, '','', );
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (7, '','', );
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (8, '','', );
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (9, '','', );
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (10, '','', );
 
 INSERT INTO pledges (id, amount, user_id, project_id) VALUES (1, );
 INSERT INTO pledges (id, amount, user_id, project_id) VALUES (2, );
